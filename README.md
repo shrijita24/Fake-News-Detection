@@ -7,7 +7,7 @@
 
 An end-to-end NLP-powered web application that classifies news articles as **Real or Fake** in real time — built with Python, scikit-learn, TF-IDF, and Streamlit.
 
-> 🚀 **[Live Demo → Try it here](https://your-streamlit-url.streamlit.app)**  
+> 🚀 **[Live Demo → Try it here](https://fake-news-detection-3pki4xxrwp7rfa7jczsn25.streamlit.app/)**  
 > *(Replace this link with your actual Streamlit Cloud URL)*
 
 ---
